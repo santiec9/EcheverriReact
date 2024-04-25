@@ -1,0 +1,11 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+}
+ul, li{
+    display: inline-block;
+    margin: 20px;
+    list-style: none;
+}
