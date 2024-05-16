@@ -3,4 +3,8 @@
     justify-content: space-around;
     align-items: center;
     margin: 5px;
+    color: #fff;
+}
+p{
+    margin: 10px;
 }
