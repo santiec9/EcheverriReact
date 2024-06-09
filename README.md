@@ -1,4 +1,12 @@
 # React + Vite
+#### "DEV - Santiago Echeverri"
+
+## Descripcion
+El mejor ecommerce de Apple, el futuro es aqui y ahora
+
+## Dependencias
+"React" "Firebase" "NPM" "YUP"
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

@@ -1,6 +1,6 @@
 .item-detail{
     display: flex;
-    margin: 20px;
+    margin: 20px auto;
 }
 .item-detail img{
     width: 300px;

@@ -3,3 +3,7 @@
     color: white;
     text-align: center;
 }
+ItemList{
+    display: flex;
+    flex-wrap: wrap;
+}

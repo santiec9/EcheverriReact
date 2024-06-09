@@ -1,0 +1,7 @@
+.cartContainer{
+    display: flex;
+    justify-content: space-around;
+}
+.cartContainer img{
+    width: 150px;
+}
